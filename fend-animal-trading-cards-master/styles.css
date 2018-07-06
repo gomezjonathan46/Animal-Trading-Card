@@ -1,0 +1,40 @@
+/* add your CSS here */
+
+.card {
+	border-style: solid;
+	width: 320px;
+	border-width: thin;
+	border-color: #b9b8b8;
+	font-family: "times new roman", sans-serif;
+	box-shadow: 5px 5px rgba(230, 230, 230, 0.9);
+	}
+
+.image {
+	max-width: 300px;
+	height: auto;
+	padding-left: 10px;
+	padding-bottom: 12px;
+}
+
+.animal-name {
+	padding-left: 10px;
+	padding-bottom: 12px;
+	margin-bottom: 0px;
+}
+
+.animal-info {
+	border-style: solid;
+	width: 280px;
+	border-width: thin;
+	border-color: #b9b8b8;
+	margin-left: 10px;
+	margin-bottom: 10px;
+	font-size: 11px;
+	padding-left: 10px;
+  padding-right: 10px;
+	}
+
+.list {
+	list-style: none;
+	padding-left: 0px;
+	}
